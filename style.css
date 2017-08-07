@@ -1,3 +1,10 @@
 * {
   box-sizing: border-box;
 }
+
+.container {
+  width: 500px;
+  margin: 100px auto;
+  height: 400px;
+  background-color: #a9a9a9;
+}
